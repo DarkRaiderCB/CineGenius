@@ -2,6 +2,8 @@
 
 ### Dataset link: <a href='https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb'> Click here </a>
 
+#### Use the app <a href='https://cinegenius.streamlit.app/'>here</a>.
+
 ### Hosted with Streamlit
 
 CineGenius is a movie genre classification app that allows users to input a plot description and receive a predicted genre. The application leverages a trained Support Vector Classifier (SVC) model to perform the classification.
